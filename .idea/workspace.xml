@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9d1f1f3-3df7-4811-bb35-1d862bffc822" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/array/1769. Minimum Number of Operations to Move All Balls to Each Box.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/1769. Minimum Number of Operations to Move All Balls to Each Box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/1828. Queries on Number of Points Inside a Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/1828. Queries on Number of Points Inside a Circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/807. Max Increase to Keep City Skyline.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/807. Max Increase to Keep City Skyline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/1282. Group the People Given the Group Size They Belong To.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
